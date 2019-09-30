@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git merge 
 
+=======
+>>>>>>> parent of 4abe766... Commit paso 13
 # Práctica de GitHub del curso de Profundización en la rama de Ingeniería de Software
 =======
 # Práctica de Profundización en Ingeniería de Software
